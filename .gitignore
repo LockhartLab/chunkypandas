@@ -1,0 +1,9 @@
+/.idea/
+/chunkypandas.egg-info/
+*.csv
+/build/
+/dist/
+.hypothesis/
+.hypothesis/*
+_pycache_/
+_pycache_/*
